@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">S4_Meniu_Clasic</string>
+    <string name="menu_item_option1">Option 1</string>
+    <string name="menu_item_option2">Option 2</string>
+    
+    <string name="menu_options"> Optiunea %1$s a fost apasata!</string>
+</resources>
