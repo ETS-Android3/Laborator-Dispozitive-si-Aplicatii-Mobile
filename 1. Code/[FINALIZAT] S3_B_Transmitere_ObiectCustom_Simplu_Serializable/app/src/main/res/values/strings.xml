@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">S3_B_Transmitere_ObiectCustom_Simplu_Serializable</string>
+    <string name="btn_main_send_simple_object">Send Simple Object</string>
+</resources>
