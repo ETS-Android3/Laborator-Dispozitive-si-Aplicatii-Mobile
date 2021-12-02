@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">S3_A_Transmitere_Primitive</string>
+    <string name="main_btn_send_string">Send String</string>
+</resources>
