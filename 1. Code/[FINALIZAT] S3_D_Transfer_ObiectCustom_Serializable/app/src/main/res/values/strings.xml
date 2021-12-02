@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">S3_D_Transfer_ObiectCustom_Serializable</string>
+    <string name="second_tv_name_of_the_movie">Name of the movie</string>
+    <string name="second_tv_profit_of_the_movie">Profit of the movie</string>
+    <string name="second_et_release_date_of_the_movie">Release date of the movie</string>
+    <string name="second_rb_netflix">Netflix</string>
+    <string name="second_rb_hbo">HBO</string>
+    <string name="second_tv_please_select_the_platform">Please, select the platform!</string>
+    <string name="second_tv_please_select_the_genre_of_the_movie">Please, select the genre of the movie!</string>
+    <string name="second_btn_send">Send</string>
+    <string name="main_btn_open_form">Open Form</string>
+    <string name="second_validate_nameError">The name is invalid</string>
+    <string name="second_validate_profitError">The profit is invalid</string>
+    <string name="second_validate_dateError">The the is invalid</string>
+    <string name="popUp_addMovie">Filmul adaugat %1$s </string>
+    <string name="open_third">Open Third</string>
+
+    <string-array name="second_spn_genre">
+        <item> Drama </item>
+        <item> SF</item>
+        <item> Thriller </item>
+        <item> Romance </item>
+    </string-array>
+</resources>
