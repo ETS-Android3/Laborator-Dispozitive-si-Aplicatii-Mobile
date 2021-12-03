@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_item_message"
+            android:title="@string/menu_item_message"
+            android:icon="@drawable/ic_message"/>
+
+        <item
+            android:id="@+id/menu_item_chat"
+            android:title="@string/menu_item_chat"
+            android:icon="@drawable/ic_chat"/>
+
+        <item
+            android:id="@+id/menu_item_profil"
+            android:title="@string/menu_item_profile"
+            android:icon="@drawable/ic_profile" />
+    </group>
+
+    <item
+        android:title="@string/menu_communication">
+        <menu>
+            <item
+                android:id="@+id/menu_item_send"
+                android:title="@string/menu_item_send"
+                android:icon="@drawable/ic_send"/>
+            <item
+                android:id="@+id/menu_item_share"
+                android:title="@string/menu_share"
+                android:icon="@drawable/ic_share"/>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">S4_Drawer_Navigation_Menu</string>
+    <string name="header_grupa_1085">Grupa 1085</string>
+    <string name="header_giol_adriana">Giol Adriana</string>
+    <string name="menu_item_message">Message</string>
+    <string name="menu_item_chat">Chat</string>
+    <string name="menu_item_profile">Profile</string>
+    <string name="menu_communication">Communication</string>
+    <string name="menu_item_send">Send</string>
+    <string name="menu_share">Share</string>
+    <string name="toast_message">Message</string>
+    <string name="toast_chat">Chat</string>
+    <string name="toast_profile">Profile</string>
+    <string name="toast_send">Send</string>
+    <string name="toast_share">Share</string>
+    <string name="toggle_close">Close Toggle</string>
+    <string name="toggle_open">Open Toggle</string>
+</resources>
