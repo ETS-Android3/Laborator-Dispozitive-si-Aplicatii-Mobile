@@ -12,7 +12,8 @@
 
 
 #### For all projects:
-- Minimum SDK: API 21: Android 5.0 (Lollipop)
+- Minimum SDK: **API 21: Android 5.0 (Lollipop)**
+- Android Emulators used: **Nexus 4 API 27 - Android 8.1 (768 x 1280: xhdpi) || Pixel 4 API 28 - Android 9.0 (1080 x 2280: 440dpi)**
 
 ## 💻Laborator 3 - Transferul si Transmiterea obiectelor custom
 ✔️[**1. Transmitere primitive**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S3_A_Transmitere_Primitive) </br>
@@ -29,4 +30,7 @@
 
 ## 💻Laborator 6 - Adapter Personalizat
 ✔️[**1. Array Adapter + Serializable + List View**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S6_AdapterPersonalizat_ArrayAdapter) </br>
+
+## 💻Laborator 9 - Shared Preferences
+✔️[**1.Edit Text + Rating Bar - Save On Button Click**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S9_SharedPreferences)</br>
 
