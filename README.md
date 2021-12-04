@@ -11,6 +11,9 @@
 </a>
 
 
+#### For all projects:
+- Minimum SDK: API 21: Android 5.0 (Lollipop)
+
 ## 💻Laborator 3 - Transferul si Transmiterea obiectelor custom
 ✔️[**1. Transmitere primitive**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S3_A_Transmitere_Primitive) </br>
 ✔️[**2. Transmitere obiecte custom simple - Serializable**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S3_B_Transmitere_ObiectCustom_Simplu_Serializable) </br>
