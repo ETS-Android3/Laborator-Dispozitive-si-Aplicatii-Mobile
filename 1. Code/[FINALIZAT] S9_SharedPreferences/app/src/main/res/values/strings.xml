@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">S9_SharedPreferences</string>
+
+    <string name="main_et_string">String</string>
+    <string name="main_et_float">Float</string>
+    <string name="main_btn_afiseaza">Afiseaza</string>
+
+    <string name="string_errorString">Stringul nu este valid!</string>
+    <string name="string_errorFloat">Floatul nu este valid!</string>
+    <string name="string_errorRating">Ratingul nu este valid!</string>
+
+    <string name ="string_toast"> Au fost salvate in fisierul de preferinte valorile: %1$s, %2$.2f si ratingul de %3$.1f stele! </string>
+
+
+</resources>
