@@ -10,8 +10,6 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import org.w3c.dom.Text;
-
 import java.util.List;
 
 import eu.ase.ro.s3_d_transfer_obiectcustom_serializable.R;
@@ -51,11 +49,11 @@ public class MovieAdapter extends ArrayAdapter<Movie> {
         movie = movieList.get(position);
         if(movie != null){
             initComponentsAdapter();
-            validate(tvName,movie.getName());
-            validate(tvDate, String.valueOf(movie.getDate()));
-            validate(tvProfit, String.valueOf(movie.getProfit()));
-            validate(tvGenre, movie.getGenre());
-            validate(tvPlatform, String.valueOf(movie.getPlatform()));
+            populateTextViewContent(tvName,movie.getName());
+            populateTextViewContent(tvDate, String.valueOf(movie.getDate()));
+            populateTextViewContent(tvProfit, String.valueOf(movie.getProfit()));
+            populateTextViewContent(tvGenre, movie.getGenre());
+            populateTextViewContent(tvPlatform, String.valueOf(movie.getPlatform()));
             return view;
         }
 
@@ -72,7 +70,7 @@ public class MovieAdapter extends ArrayAdapter<Movie> {
     }
 
     //PAS 8: Facem validari
-    private void validate(TextView tvAll, String valueAtribut){
+    private void populateTextViewContent(TextView tvAll, String valueAtribut){
         if(valueAtribut != null &&!valueAtribut.trim().isEmpty()){
             tvAll.setText(valueAtribut);
         } else{
