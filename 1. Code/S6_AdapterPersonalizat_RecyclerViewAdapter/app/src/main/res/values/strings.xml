@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">S6_AdapterPersonalizat_RecyclerViewAdapter</string>
+    <!-- Main Activity -->
+    <string name="main_btn_open_form">Open Form</string>
+
+    <!-- Second Activity -->
+    <string name="second_et_name">Name</string>
+    <string name="second_et_profit">Profit</string>
+    <string name="second_et_date">Date</string>
+    <string name="second_et_rating">Rating</string>
+    <string name="second_tv_please_select_de_genre_of_the_movie">Please select de genre of the movie!</string>
+    <string name="second_tv_please_select_the_platform">Please select the platform!</string>
+    <string name="second_rb_netflix">Netflix</string>
+    <string name="second_rb_hbo">HBO</string>
+    <string name="second_btn_send">Send</string>
+
+    <!-- Recycler View Layout-->
+    <string name="rv_tv_title">Title</string>
+    <string name="rv_tv_date">Date</string>
+    <string name="rv_tv_profit">Profit</string>
+    <string name="rv_tv_rating">Rating</string>
+    <string name="rv_tv_platform">Platform</string>
+    <string name="rv_tv_genre">Genre</string>
+
+    <!-- Spinner -->
+    <string-array name="second_spn_genre">
+        <item> Romance </item>
+        <item> Drama </item>
+        <item> S.F. </item>
+        <item> Thriller </item>
+    </string-array>
+</resources>
