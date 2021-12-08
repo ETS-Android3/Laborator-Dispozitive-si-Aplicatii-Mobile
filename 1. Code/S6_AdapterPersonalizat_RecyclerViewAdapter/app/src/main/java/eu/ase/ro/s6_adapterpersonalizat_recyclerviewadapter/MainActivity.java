@@ -12,7 +12,6 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 
 import java.util.ArrayList;
-import java.util.Date;
 
 public class MainActivity extends AppCompatActivity {
     public static final int REQUEST_CODE = 200;
@@ -27,10 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         initComponents();
         clickBtnOpenForm();
-        setRecyclerView_Adapter();
-
-        Movie movie = new Movie("Titanic",new Date(),123,5,"Romance","Netflix");
-        listMovies.add(movie);
+        setRecyclerViewAdapter();
     }
 
     private void initComponents(){
@@ -60,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     }
-    private void setRecyclerView_Adapter(){
+    private void setRecyclerViewAdapter(){
         MovieAdapter movieAdapter = new MovieAdapter(getApplicationContext(),listMovies);
         rvMovies.setAdapter(movieAdapter);
         rvMovies.setLayoutManager(new LinearLayoutManager(getApplicationContext()));
