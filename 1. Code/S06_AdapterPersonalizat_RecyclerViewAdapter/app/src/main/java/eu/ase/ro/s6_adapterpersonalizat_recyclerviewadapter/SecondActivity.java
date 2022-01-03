@@ -45,7 +45,6 @@ public class SecondActivity extends AppCompatActivity {
         etDate = findViewById(R.id.second_et_date);
         spnGnere = findViewById(R.id.second_spn_genre);
         rgPlatform = findViewById(R.id.second_rg_platform);
-        rbChosenPlatform = findViewById(rgPlatform.getCheckedRadioButtonId());
         etRating = findViewById(R.id.second_et_rating);
         btnSend = findViewById(R.id.second_btn_send);
     }
@@ -66,6 +65,8 @@ public class SecondActivity extends AppCompatActivity {
             int profit = Integer.parseInt(etProfit.getText().toString());
             float rating = Float.parseFloat(etRating.getText().toString());
             String genre = spnGnere.getSelectedItem().toString();
+            
+             rbChosenPlatform = findViewById(rgPlatform.getCheckedRadioButtonId());
             String platform = rbChosenPlatform.getText().toString();
 
             return new Movie(name,date,profit,rating,genre,platform);
