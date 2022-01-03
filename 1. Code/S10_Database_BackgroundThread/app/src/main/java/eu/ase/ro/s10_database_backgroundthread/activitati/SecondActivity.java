@@ -74,7 +74,6 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     private void createMovie(){
-
         try {
             String name = etName.getText().toString();
             Date date = dateConverter.fromString(etDate.getText().toString());
