@@ -71,7 +71,6 @@ public class SecondActivity extends AppCompatActivity {
             rbChosenPlatform = findViewById(rgPlatform.getCheckedRadioButtonId());
             String platform = rbChosenPlatform.getText().toString();
 
-
             return new Movie(name,date,profit,genre,platform);
 
         } catch (Exception e) {
