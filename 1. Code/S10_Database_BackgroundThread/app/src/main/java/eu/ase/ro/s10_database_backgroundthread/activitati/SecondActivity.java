@@ -59,7 +59,6 @@ public class SecondActivity extends AppCompatActivity {
         etDate = findViewById(R.id.second_et_date);
         spnGnere = findViewById(R.id.second_spn_genre);
         rgPlatform = findViewById(R.id.second_rg_platform);
-        rbChosenPlatform = findViewById(rgPlatform.getCheckedRadioButtonId());
         rbNETFLIX = findViewById(R.id.second_rb_netflix);
         rbHBO = findViewById(R.id.second_rb_hbo);
         btnSend = findViewById(R.id.second_btn_send);
@@ -81,6 +80,8 @@ public class SecondActivity extends AppCompatActivity {
             Date date = dateConverter.fromString(etDate.getText().toString());
             int profit = Integer.parseInt(etProfit.getText().toString());
             String genre = spnGnere.getSelectedItem().toString();
+
+            rbChosenPlatform = findViewById(rgPlatform.getCheckedRadioButtonId());
             String platform = rbChosenPlatform.getText().toString();
 
             if(movie == null) {
@@ -121,14 +122,13 @@ public class SecondActivity extends AppCompatActivity {
                 break;
             }
         }
-        if(rgPlatform.equals("NETFLIX")){
+        if (rgPlatform.getCheckedRadioButtonId() == R.id.second_rb_netflix) {
             rbNETFLIX.setChecked(true);
-            rbHBO.setChecked(false);
-
-        }else{
-            rbHBO.setChecked(true);
-            rbNETFLIX.setChecked(false);
         }
+        else if(rgPlatform.getCheckedRadioButtonId() == R.id.second_rb_hbo){
+            rbHBO.setChecked(true);
+            }
+
     }
 
     private boolean validateMovie(){
