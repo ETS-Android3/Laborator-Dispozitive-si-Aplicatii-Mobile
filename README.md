@@ -10,6 +10,14 @@
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/android.png" alt="Android SDK" width = "auto" height="40px" align="center" title="Android Studio" />
 </a>
 
+<a href = "https://firebase.google.com/">
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/firebase2.png" alt="Firebase Realtime Database" width = "auto" height="40px" align="center" title="Firebase Realtime Database" />
+</a>
+
+<a href = "https://developers.google.com/maps">
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/googleMaps.png" alt="Google Maps" width = "auto" height="40px" align="center" title="Google Maps" />
+</a>
+
 
 #### For all projects:
 - Minimum SDK: **API 21: Android 5.0 (Lollipop)**
