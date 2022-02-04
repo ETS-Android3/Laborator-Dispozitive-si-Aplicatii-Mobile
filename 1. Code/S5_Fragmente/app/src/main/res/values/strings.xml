@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">S5_Fragmente</string>
+    <string name="message">Message</string>
+    <string name="chat">Chat</string>
+    <string name="profil">Profil</string>
+    <string name="communication">Communication</string>
+    <string name="send">Send</string>
+    <string name="share">Share</string>
+
+    <string name="open_toggle"> Open Toggle</string>
+    <string name="close_toggle">Close Toggle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

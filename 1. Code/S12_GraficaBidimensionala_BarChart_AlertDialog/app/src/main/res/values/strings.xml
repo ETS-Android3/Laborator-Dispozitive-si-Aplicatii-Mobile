@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">S12_GraficaBidimensionala_BarChart</string>
+    <string name="main_btn_open_form">Open Form</string>
+
+    <string name="second_et_name">Name</string>
+    <string name="second_et_profit">Profit</string>
+    <string name="second_et_date">Date</string>
+
+    <string name="second_tv_genre">Please select de genre of the movie!</string>
+    <string name="second_tv_platform">Please select the platform!</string>
+    <string name="second_rb_netflix">NETFLIX</string>
+    <string name="second_rb_hbo">HBO</string>
+    <string name="second_btn_send">Send</string>
+
+    <string name="second_validate_nameError">Title is invalid!</string>
+    <string name="second_validate_profitError">Profit is invalid!</string>
+    <string name="second_validate_dateError"> Date is invalid!</string>
+
+
+    <!-- List View Layout-->
+    <string name="lv_tv_title">Title</string>
+    <string name="lv_tv_date">Date</string>
+    <string name="lv_tv_profit">Profit</string>
+    <string name="lv_tv_platform">Platform</string>
+    <string name="lv_tv_genre">Genre</string>
+
+    <string-array name="second_spn_genre">
+        <item> Romantic </item>
+        <item> Drama </item>
+        <item> S.F. </item>
+        <item> Thriller </item>
+        <item> Comedie </item>
+        <item> Disney </item>
+    </string-array>
+
+    <string name="toast_addMovie">Filmul %1$s a fost adaugat!</string>
+    <string name="movieAdaptor_tv_valueDefault"> - </string>
+    <string name="main_btn_open_bar_chart">Open Bar Chart</string>
+
+    <string name="chart_label"> %1$s - %2$d</string>
+</resources>

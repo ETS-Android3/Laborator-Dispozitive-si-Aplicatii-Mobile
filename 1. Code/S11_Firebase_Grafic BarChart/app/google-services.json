@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232958152678",
+    "project_id": "s11-firebase-backgroundthread",
+    "storage_bucket": "s11-firebase-backgroundthread.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232958152678:android:2d445296a77ebd46e3d027",
+        "android_client_info": {
+          "package_name": "eu.ase.ro.s11_firebase_backgroundthread"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232958152678-vmcg34hdk8i7difcacmreh0hp20b6guq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbU2jo992o2ZLz9dF2uuyk6-2H16t2WWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232958152678-vmcg34hdk8i7difcacmreh0hp20b6guq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

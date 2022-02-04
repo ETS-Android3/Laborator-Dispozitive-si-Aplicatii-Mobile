@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "466134193173",
+    "firebase_url": "https://s11-firebase-realtimedatabase-default-rtdb.firebaseio.com",
+    "project_id": "s11-firebase-realtimedatabase",
+    "storage_bucket": "s11-firebase-realtimedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466134193173:android:c15d5b93979aface22ea1c",
+        "android_client_info": {
+          "package_name": "eu.ase.ro.s11_firebase_realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466134193173-j8ei1bt4mldrmgveug2lon5aiteqqbj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWD8OMYxEL_9UYuCpOQBUlaYv3NZlAWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466134193173-j8ei1bt4mldrmgveug2lon5aiteqqbj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466134193173:android:0b057805ce763c1922ea1c",
+        "android_client_info": {
+          "package_name": "eu.ase.ro.s12_graficabidimensionala_barchart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466134193173-j8ei1bt4mldrmgveug2lon5aiteqqbj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWD8OMYxEL_9UYuCpOQBUlaYv3NZlAWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466134193173-j8ei1bt4mldrmgveug2lon5aiteqqbj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
