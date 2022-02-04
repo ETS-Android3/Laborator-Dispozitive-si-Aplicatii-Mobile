@@ -36,7 +36,7 @@
 
 ## 💻Laborator 5 - Fragmente
 ✔️[**1. Fragmente - Transfer Simplu**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S05_Fragmente) </br>
-[**2. Fragmente - Transfer Complex**]() </br>
+⚠️[**2. Fragmente - Transfer Complex**]() </br>
 
 ## 💻Laborator 6 - Adapter Personalizat
 ✔️[**1. Array Adapter + Serializable + List View**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S06_AdapterPersonalizat_ArrayAdapter) </br>
@@ -44,9 +44,9 @@
 
 ## 💻Laborator 7 - Networking - Parsare JSON + XML
 ✔️[**1. Thread - JSON**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S07_Networking_Thread_JSON)</br>
-✔️[**2. Async Task Runner(detaliat) - JSON & XML**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S07_Networking_AsyncTask_JSON_XML)</br>
-[**3. Async Task Runner  - Executor - JSON**]()</br>
-[**4. Executor - Picture & Text**]()</br>
+⚠️[**2. Async Task Runner(detaliat) - JSON & XML**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S07_Networking_AsyncTask_JSON_XML)</br>
+⚠️[**3. Async Task Runner  - Executor - JSON**]()</br>
+⚠️[**4. Executor - Picture & Text**]()</br>
 
 ## 💻Laborator 9 - Shared Preferences
 ✔️[**1. Edit Text + Rating Bar - Save On Button Click**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S09_SharedPreferences)</br>
