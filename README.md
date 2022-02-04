@@ -16,21 +16,33 @@
 - Android Emulators used: **Nexus 4 API 27 - Android 8.1 (768 x 1280: xhdpi) || Pixel 4 API 28 - Android 9.0 (1080 x 2280: 440dpi)**
 
 ## 💻Laborator 3 - Transferul si Transmiterea obiectelor custom
-✔️[**1. Transmitere primitive**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S3_A_Transmitere_Primitive) </br>
-✔️[**2. Transmitere obiecte custom simple - Serializable**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S3_B_Transmitere_ObiectCustom_Simplu_Serializable) </br>
-✔️[**3. Transfer obiecte custom - Parcelable**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S3_C_Transfer_ObiectCustom_Parcelable) </br>
-✔️[**4. Transfer obiecte custom - Serializable**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S3_D_Transfer_ObiectCustom_Serializable) </br>
+✔️[**1. Transmitere primitive**]() </br>
+✔️[**2. Transmitere obiecte custom simple - Serializable**]() </br>
+✔️[**3. Transfer obiecte custom - Parcelable**]() </br>
+✔️[**4. Transfer obiecte custom - Serializable**]() </br>
 
 ## 💻Laborator 4 - Meniuri
-✔️[**1. Bottom Navigation Menu**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S4_Bottom_Navigation_Menu) </br>
-✔️[**2. Drawer Navigation Menu**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S4_Drawer_Navigation_Menu) </br>
-✔️[**3. Meniu Clasic**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S4_Meniu_Clasic) </br>
+✔️[**1. Bottom Navigation Menu**]() </br>
+✔️[**2. Drawer Navigation Menu**]() </br>
+✔️[**3. Meniu Clasic**]() </br>
 
 ## 💻Laborator 5 - Fragmente
+✔️[**1.Fragmente - Transfer Simplu**]() </br>
 
 ## 💻Laborator 6 - Adapter Personalizat
-✔️[**1. Array Adapter + Serializable + List View**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S6_AdapterPersonalizat_ArrayAdapter) </br>
+✔️[**1. Array Adapter + Serializable + List View**]() </br>
+✔️[**2.Recicler View Adapter + Parcelable + Recycler View**]() </br>
 
 ## 💻Laborator 9 - Shared Preferences
-✔️[**1.Edit Text + Rating Bar - Save On Button Click**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/%5BFINALIZAT%5D%20S9_SharedPreferences)</br>
+✔️[**1.Edit Text + Rating Bar - Save On Button Click**]()</br>
 
+## 💻Laborator 10 - Baze de Date Locale - ROOM
+✔️[**1.Database - Foreground Thread**]()</br>
+✔️[**2.Database - Background Thread**]()</br>
+
+## 💻Laborator 11 - Baze de date la distanta - Firebase
+
+## 💻Laborator 12 - Grafice
+
+## 💻Laborator 14 - Google Maps
+✔️[**1.Google Maps - Pin**]()</br>
