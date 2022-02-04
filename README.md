@@ -41,7 +41,11 @@
 ✔️[**1. Array Adapter + Serializable + List View**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S06_AdapterPersonalizat_ArrayAdapter) </br>
 ✔️[**2 .Recicler View Adapter + Parcelable + Recycler View**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S06_AdapterPersonalizat_RecyclerViewAdapter) </br>
 
-## 💻Laborator 7 - Networking
+## 💻Laborator 7 - Networking - Parsare JSON + XML
+✔️[**1. Thread - JSON**]()</br>
+✔️[**2. Async Task Runner(detaliat) - JSON & XML**]()</br>
+[**3. Async Task Runner  - Executor - JSON**]()</br>
+[**4. Executor - Picture & Text**]()</br>
 
 ## 💻Laborator 9 - Shared Preferences
 ✔️[**1. Edit Text + Rating Bar - Save On Button Click**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S09_SharedPreferences)</br>
