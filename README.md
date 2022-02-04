@@ -32,7 +32,7 @@
 ## 💻Laborator 4 - Meniuri
 ✔️[**1. Bottom Navigation Menu**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S04_Bottom_Navigation_Menu) </br>
 ✔️[**2. Drawer Navigation Menu**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S04_Drawer_Navigation_Menu) </br>
-✔️[**3. Meniu Clasic**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code) </br>
+✔️[**3. Meniu Clasic**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S04_Meniu_Clasic) </br>
 
 ## 💻Laborator 5 - Fragmente
 ✔️[**1. Fragmente - Transfer Simplu**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S05_Fragmente) </br>
