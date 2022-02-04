@@ -35,15 +35,16 @@
 ✔️[**3. Meniu Clasic**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code) </br>
 
 ## 💻Laborator 5 - Fragmente
-✔️[**1. Fragmente - Transfer Simplu**]() </br>
+✔️[**1. Fragmente - Transfer Simplu**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S05_Fragmente) </br>
+[**2. Fragmente - Transfer Complex**]() </br>
 
 ## 💻Laborator 6 - Adapter Personalizat
 ✔️[**1. Array Adapter + Serializable + List View**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S06_AdapterPersonalizat_ArrayAdapter) </br>
 ✔️[**2 .Recicler View Adapter + Parcelable + Recycler View**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S06_AdapterPersonalizat_RecyclerViewAdapter) </br>
 
 ## 💻Laborator 7 - Networking - Parsare JSON + XML
-✔️[**1. Thread - JSON**]()</br>
-✔️[**2. Async Task Runner(detaliat) - JSON & XML**]()</br>
+✔️[**1. Thread - JSON**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S07_Networking_Thread_JSON)</br>
+✔️[**2. Async Task Runner(detaliat) - JSON & XML**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S07_Networking_AsyncTask_JSON_XML)</br>
 [**3. Async Task Runner  - Executor - JSON**]()</br>
 [**4. Executor - Picture & Text**]()</br>
 
@@ -54,9 +55,12 @@
 ✔️[**1. Database - Foreground Thread**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S10_Database_ForegroundThread)</br>
 ✔️[**2. Database - Background Thread**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S10_Database_BackgroundThread)</br>
 
-## 💻Laborator 11 - Baze de date la distanta - Firebase
+## 💻Laborator 11 - Baze de date la distanta - Firebase Realtime Database
+✔️[**1. Firebase Realtime Database**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S11_Firebase_RealtimeDatabase)</br>
 
-## 💻Laborator 12 - Grafice
+## 💻Laborator 12 - Grafice [cu Firebase] 
+✔️[**1. Grafic - Bar Chart - Vertical [Firebase]**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S11_Firebase_Grafic%20BarChart)</br>
+✔️[**2. Grafic - Bar Chart - Orizontal [Firebase + Alert Dialog]**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S12_GraficaBidimensionala_BarChart_AlertDialog)</br>
 
 ## 💻Laborator 14 - Google Maps
 ✔️[**1.Google Maps - Pin**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S14_GoogleMaps)</br>
