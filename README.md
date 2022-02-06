@@ -56,7 +56,8 @@
 ✔️[**2. Database - Background Thread**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S10_Database_BackgroundThread)</br>
 
 ## 💻Laborator 11 - Baze de date la distanta - Firebase Realtime Database
-✔️[**1. Firebase Realtime Database**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S11_Firebase_RealtimeDatabase)</br>
+✔️[**1. Firebase Realtime Database - without FK**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S11_Firebase_RealtimeDatabase_withoutFK)</br>
+✔️[**2. Firebase Realtime Database - with FK**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S11_Firebase_withFK)</br>
 
 ## 💻Laborator 12 - Grafice [cu Firebase] 
 ✔️[**1. Grafic - Bar Chart - Vertical [Firebase]**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S11_Firebase_Grafic%20BarChart)</br>
