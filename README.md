@@ -45,7 +45,7 @@
 ## 💻Laborator 7 - Networking - Parsare JSON + XML
 ✔️[**1. Thread - JSON**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S07_Networking_Thread_JSON)</br>
 ⚠️[**2. Async Task Runner(detaliat) - JSON & XML**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S07_Networking_AsyncTask_JSON_XML)</br>
-⚠️[**3. Async Task Runner  - Executor - JSON**]()</br>
+✔️[**3. Async Task Runner  - Executor - JSON & XML**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S07_Networking_AsyncTask_Executor_JSON_XML)</br>
 ✔️[**4. Executor - Picture & Text**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S07_Networking_Executor_String_Picture)</br>
 
 ## 💻Laborator 9 - Shared Preferences
