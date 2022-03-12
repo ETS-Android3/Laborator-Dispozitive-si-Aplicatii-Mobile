@@ -36,7 +36,7 @@
 
 ## 💻Laborator 5 - Fragmente
 ✔️[**1. Fragmente - Transfer Simplu**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S05_Fragmente) </br>
-⚠️[**2. Fragmente - Transfer Complex**]() </br>
+✔️[**2. Fragmente - Transfer Complex**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S05_Fragmente_ListView) </br>
 
 ## 💻Laborator 6 - Adapter Personalizat
 ✔️[**1. Array Adapter + Serializable + List View**](https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile/tree/main/1.%20Code/S06_AdapterPersonalizat_ArrayAdapter) </br>
