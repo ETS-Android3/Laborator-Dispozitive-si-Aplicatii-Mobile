@@ -1,4 +1,4 @@
-# 💛 Dispozitive si Aplicatii Mobile (Android)
+# 💚 Dispozitive si Aplicatii Mobile (Android)
 **Laborator de Dispozitive si Aplicatii Mobile (Android) in limbajul Java**</br>
 **Profesor coordonator: Stroe Andreea**</br>
 **An universitar: 2021-2022**</br>
